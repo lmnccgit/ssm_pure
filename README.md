@@ -1,2 +1,2 @@
-# ssm_pure
+# ssm_pure(jdk1.8)
 the  pure code
